@@ -1,3 +1,3 @@
 ## hello world
 
-## my git learning
+my git learning
